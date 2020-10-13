@@ -1,6 +1,7 @@
 body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     position: absolute;
     left: 50%;
     top: 50%;
